@@ -471,6 +471,11 @@ body {
   .club__intro {
     flex-direction: column;
     gap: 24px;
+    margin-bottom: 40px;
+  }
+
+  .club__benefits {
+    flex: 1 1 auto;
   }
 
   .club__plans {
@@ -563,6 +568,10 @@ body {
 
   .story__content {
     padding: 60px 24px;
+  }
+
+  .story__title {
+    font-size: clamp(1.2rem, 6vw, 1.7rem);
   }
 
   .story__media {
