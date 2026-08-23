@@ -217,6 +217,11 @@ body {
   margin-bottom: 36px;
 }
 
+.hero__subtitle-highlight {
+  color: #d14343;
+  font-weight: 600;
+}
+
 .hero__actions {
   display: flex;
   gap: 16px;
